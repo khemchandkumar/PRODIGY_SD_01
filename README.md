@@ -30,11 +30,17 @@ https://youtu.be/xro0zDmKlRs
 
 ## 🖥️ Installation & Usage
 1. Clone this repository:
+   ```bash
    git clone https://github.com/khemchandkumar/PRODIGY_SD_01.git
-2. Navigate into the project folder:
+   ```
+3. Navigate into the project folder:
+   ```bash
    cd PRODIGY_SD_01
-3. Run the program:
+   ```
+5. Run the program:
+   ```bash
    python temperature_converter.py
+   ```
 
 ---
 
