@@ -39,7 +39,7 @@ https://youtu.be/xro0zDmKlRs
    ```
 5. Run the program:
    ```bash
-   python temperature_converter.py
+   python Temperature-Converter.py
    ```
 
 ---
